@@ -4,3 +4,7 @@ create-react-app nombre del app
 vscode icons
 Reactjs code snippets
 npm install --save react-weathericons
+
+api call
+
+api.openweathermap.org/data/2.5/weather?q=[location]&appid=[81b81cad03031610d3857337b8bed054]
