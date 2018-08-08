@@ -6,7 +6,7 @@ import './styles.css';
 
 const location = 'Buenos Aires,ar';
 const api_key = '81b81cad03031610d3857337b8bed054';
-const api_weather = `api.openweathermap.org/data/2.5/weather?q=${location}&appid=${api_key}`;
+const api_weather = `http://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${api_key}`;
 
 const data1 = {
     temperature: 20,
